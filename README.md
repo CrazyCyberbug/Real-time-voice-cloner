@@ -1,6 +1,8 @@
 # Real-time-voice-cloner
 ___
 
+check out my blog <a href = "https://medium.com/@iamananth123/real-time-voice-cloning-a-deep-dive-into-revolutionary-tts-technologies-ce34c9911078">Real-Time Voice Cloning: A Deep Dive into Revolutionary TTS Technologies</a>!
+
 `Real-time-voice-cloner` is a open source project contributed by Corentin Jemine. Find the link to the repo <a href = "https://github.com/CorentinJ/Real-Time-Voice-Cloning">here<a>.
 #### **Goal of this project-**
 
